@@ -1,0 +1,7 @@
+.background_table{
+    background-color: rgb(187, 247, 187);
+    padding: 5%;
+    text-align: center;
+    border-style: dashed;
+    border-radius: 20px;
+}
